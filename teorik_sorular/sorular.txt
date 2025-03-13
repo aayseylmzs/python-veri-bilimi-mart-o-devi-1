@@ -1,0 +1,10 @@
+Python'da bir sınıf (class) nasıl tanımlanır ve bir nesne (object) nasıl oluşturulur? Kod örneği ile açıklayın
+
+
+Encapsulation (Kapsülleme) nedir? Python'da nasıl uygulanır? Kod örneği ile açıklayın
+
+Python'da init metodunun görevi nedir?
+
+Inheritance (Kalıtım) nedir? Python'da nasıl kullanılır? Kod örneği ile açıklayın
+
+Polymorphism (Çok Biçimlilik) nedir? Python'da nasıl uygulanır? Kod örneği ile açıklayın
